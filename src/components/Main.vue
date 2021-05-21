@@ -3,7 +3,7 @@
     <div class="jumbotron">
 
     </div>
-    
+
     <button class="current">
         CURRENT SERIES
     </button>
@@ -18,6 +18,7 @@
    v-for="(picture, index) in pictures"
    :key="index"
    :img="picture"
+   
    />
   
   </div>
