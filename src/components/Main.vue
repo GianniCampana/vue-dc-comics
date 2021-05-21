@@ -3,6 +3,7 @@
     <div class="jumbotron">
 
     </div>
+    
     <button class="current">
         CURRENT SERIES
     </button>
