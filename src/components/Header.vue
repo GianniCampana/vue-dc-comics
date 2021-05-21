@@ -11,6 +11,7 @@
             </li>
         </ul>
     </div>
+    
 </header>
     
 </template>
@@ -88,6 +89,7 @@ export default {
 header{
     height: 100px;
     display: flex;
+
     .header-menu{
         
         height: 100px;
